@@ -9,15 +9,15 @@ __
 **SUMMARY OF QUALIFICATIONS**
 
 Dynamic professional with Finance, Accounting, Human Resource and Project management expertise; including strengths in creating, executing, monitoring, and examining budgets, GL, Cash flow, Cash Reconciliation, AP/AR, Payroll Analysis of organizations. After 14+ years in Finance and Accounting, I am excited to apply my skills to the role of a Project manager in any environment.  I am passionate in procurement and contract negotiation; In my different roles, I have continuously looked for ways to minimize operational expenses and mitigate risks. Drive major projects that involve strategic risks and strict time scales in different industries like oil and gas, hospitality, Manufacturing, investments, Social media marketing. History of instituting effective communication processes while relying on skills in procurement, financial planning, Audit compliance preparation and management, Commissions and Compensation Analysis to maximize business efficiency. Innovative thinker, dedicated self-starter who works diligently to achieve critical objectives. Core competencies and technical skills include: 
-Business Management | Investment Planning | Marketing | Project Management| Cost Management |Commissions Analysis| |investment security and portfolio Management | Procurement & risk Management | Business Finance | Managerial Accounting | Cost Accounting |SQL | SAP- FICO (ERP) | JDE | PeopleSoft | MS Word, Excel, Access, Project, Publisher, PowerPoint, Visio, Integra| Axys| TValue| Contract negotiations | Great Planes
+Business Management | Investment Planning | Marketing | Project Management| Cost Management |Commissions Analysis| |investment security and portfolio Management | Procurement & risk Management | Business Finance | Managerial Accounting | Python | Cost Accounting |SQL | SAP- FICO (ERP) | JDE | PeopleSoft | MS Word, Excel, Access, Project, Publisher, PowerPoint, Visio, Integra| Axys| TValue| Contract negotiations | Great Planes
 
 
 **PROFESSIONAL EXPERIENCE**
 
 
-OPHRYS-WEINSTEIN & RILEY LLC
+_OPHRYS-WEINSTEIN & RILEY LLC_
 
-ACCOUNTING MANAGER (LAW FIRM/FUNDS’ INVESTMENTS)	JUNE 2016-PRESENT
+_ACCOUNTING MANAGER (LAW FIRM/FUNDS’ INVESTMENTS)	JUNE 2016 - APRIL 2018_
 
 This includes:  Management of all entities including Law Firm GL, Asset management Cost Basis Analysis Detailed Financial analysis,  of revenue, payroll,  G&A . Borrowing Basis Analysis I.e. Checking strength and weakness of a funds and Funds distributions for investors, coordinate with Treasury management for daily transaction for Wire & ACH approvals, oversee Audits, 
 • Manage daily Accounting activities and month end close process for operating companies. Manage Accounts Payable, Accounts Receivable, Clients Reporting, GL Accountant.
@@ -42,7 +42,7 @@ Completion of sub documents and making sure that all are in compliance to perfor
 •Oil and Gas Reserve Asset Management and Real Estate Asset Management, Share and Bonds, realized and Unrealized gain and losses Management.
  •Prepare FMV reports, Annual preparation of Return schedules and management fees schedules. Preparation of K-1 taxes analysis for partnerships and also public traded partnerships, Preparation of Audits schedules.
 
-SOCIALTYZE, MANHATTAN BEACH, CA	Apr 2014 – Dec 2014
+_SOCIALTYZE, MANHATTAN BEACH, CA	Apr 2014 – Dec 2014_
 Finance Director:
 This includes: Cash flow management, Co-ordinate Annual Budgets and Financial, monitoring capital expenditures & proposals, Human Resource Benefits management.
  •Manage Accounts Payable and Accounts Receivable departments and making sure the end of month process is smooth. 
@@ -52,7 +52,7 @@ This includes: Cash flow management, Co-ordinate Annual Budgets and Financial, m
 •Cost estimation per project and monitoring the hours spend using Harvest project and task management, working on risk management and asset allocation using optimization techniques.
 •Participate in finance, human resources and strategic planning with other managers. Lead each department on a monthly basis showing trend on P&L. Monitoring internal controls and advise department heads.
 
-COSWORTH AMERICAS, Torrance, CA	Jul 2012 – Apr 2014 
+_COSWORTH AMERICAS, Torrance, CA	Jul 2012 – Apr 2014_ 
 
 Senior Business Analyst / Financial Manager
 GL management, Reconciliation of bank, assist Controller with Annual Budgets ,FInancial, monitoring capital expenditures & proposals for General Managers, Payroll processing & analysis.  ALL Human Resource /Benefits management.
@@ -69,7 +69,7 @@ Cost Basis analysis and accounting –physical Inventory count and prepare analy
 •Assisted with all corporate queries and special project in CEO’s absence; In charge of all Human Resource duties in all Cosworth Americas, headed payroll processes and liaised with ADP. Drove decisions concerning employee benefits and reporting with providers. Managed all 401K requirements with fiduciary for entire company and completed 5500 forms for Cosworth Americas.
 •Advised defense team on Defense Contract Audit Agency (DCAA) standards for grants and regulations, making certain that standards were met and advise on best accounting processes and implementing by need.
 
-AMERICAN GOLF CORPORATION, Santa Monica, CA 	Apr 2007 – Jul 2012 
+_AMERICAN GOLF CORPORATION, Santa Monica, CA 	Apr 2007 – Jul 2012_ 
 Course Analyst / Staff Accountant 
 GL management, Reconciliation of bank, assist Controller with Annual Budgets and financial, monitoring capital expenditures & proposals for General Managers.
 •Prepared and reviewed monthly financial statements for 21 golf courses using GAAP rules; analyzed P&L and 
@@ -85,7 +85,7 @@ ESTHER NYAMBURA MBOGGO-RUHIU | PAGE FOUR
 Continued
 
 
-Rand Corporation, Santa Monica, CA                                                                                        May 2005 – March 2007
+_Rand Corporation, Santa Monica, CA_                                                                                        May 2005 – March 2007
 Accounting Specialist III
 Data and information Analysis for technical solutions and business problems, in system migration.
 

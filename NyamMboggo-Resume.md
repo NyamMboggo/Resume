@@ -18,6 +18,7 @@ Business Management | Investment Planning | Marketing | Project Management| Cost
 _OPHRYS-WEINSTEIN & RILEY LLC JUNE 2016 - APRIL 2018_
 
 ACCOUNTING MANAGER (LAW FIRM/FUNDS’ INVESTMENTS)	
+
 This includes:  Management of all entities including Law Firm GL, Asset management Cost Basis Analysis Detailed Financial analysis,  of revenue, payroll,  G&A . Borrowing Basis Analysis I.e. Checking strength and weakness of a funds and Funds distributions for investors, coordinate with Treasury management for daily transaction for Wire & ACH approvals, oversee Audits, 
 • Manage daily Accounting activities and month end close process for operating companies. Manage Accounts Payable, Accounts Receivable, Clients Reporting, GL Accountant.
 • Cost Basis Analysis and Borrowing Basis Analysis of funds, Strength and weakness of an alternative. Prepare complex journal entries and reconciliations. Review and approve journal entries and reconciliations, work with G L Accountant for payroll and benefits entries and analysis.   Process reports financial reports showing trends and analyze for review by CFO.
@@ -27,6 +28,7 @@ projects as direct by Controller, CFO, and CEO.
 _ELLBAR PARTNER MANAGEMENT (NADEL AND GUSSMAN LLC), TULSA, OK	Dec 2014- March 2016_
 
 Assistant Controller (investments):
+
 This includes:  Asset management i.e. securities and derivatives, Treasury management, co-ordinate Capital calls and distributions, monitoring performance of securities & proposals.
 •Asset management, portfolio management and investment management both in securities and derivatives (stocks and bonds). 
 •Monitoring the quality of the portfolios of different entities and ensuring performance is in line with the company policies and that it provides the required benefit.
@@ -39,6 +41,7 @@ This includes:  Asset management i.e. securities and derivatives, Treasury manag
 _SOCIALTYZE, MANHATTAN BEACH, CA	Apr 2014 – Dec 2014_
 
 Finance Director:
+
 This includes: Cash flow management, Co-ordinate Annual Budgets and Financial, monitoring capital expenditures & proposals, Human Resource Benefits management.
  •Manage Accounts Payable and Accounts Receivable departments and making sure the end of month process is smooth. 
 •Monitoring the financials of the organization the forecasted amounts vs. the actuals and advising different departments on how to meet the goals.
@@ -49,7 +52,8 @@ This includes: Cash flow management, Co-ordinate Annual Budgets and Financial, m
 
 _COSWORTH AMERICAS, Torrance, CA	Jul 2012 – Apr 2014_ 
 
-Senior Business Analyst / Financial Manager
+Senior Business Analyst / Financial Manager:
+
 GL management, Reconciliation of bank, assist Controller with Annual Budgets ,FInancial, monitoring capital expenditures & proposals for General Managers, Payroll processing & analysis.  ALL Human Resource /Benefits management.
 •Created detailed schedules highlighting budgets, forecasts, and outlook of the business. Prepared for external audit process for both US and UK, including general and worker’s compensation. Provided financial reporting and analysis for various departments. Supervised subcontractors, finance department, credit/collections, and AR and AP staff. Authorized ACH payments and wire transfers. 
 •Cost Basis analysis and accounting –physical Inventory count and prepare analysis report comparing the pricing and variances.  Update the standard cost on the bill of material, review the cost of actuals vs standard. Manage COGS, in order to manage GP by applying overhead. Worked with Corporate office to dispose of obsolete inventory.
@@ -60,7 +64,8 @@ GL management, Reconciliation of bank, assist Controller with Annual Budgets ,FI
 
 _AMERICAN GOLF CORPORATION, Santa Monica, CA 	Apr 2007 – Jul 2012_ 
 
-Course Analyst / Staff Accountant 
+Course Analyst / Staff Accountant:
+
 GL management, Reconciliation of bank, assist Controller with Annual Budgets and financial, monitoring capital expenditures & proposals for General Managers.
 •Prepared and reviewed monthly financial statements for 21 golf courses using GAAP rules; analyzed P&L and 
 Maintained leasing knowledge this was for each golf course alongside Legal department to ensure risk mitigation. Perform cost accounting in both F&B and Merchandise. Cost of sales analysis, reconciled cash/credit cards and addressed NSF and charge backs; determined causes of variances. Managed accrual entries this was important for accrual base accounting. Generated net operating income (NOI) reports at end of each year.
@@ -72,7 +77,8 @@ Maintained leasing knowledge this was for each golf course alongside Legal depar
 
 _Rand Corporation, Santa Monica, CA May 2005 – March 2007_
 
-Accounting Specialist III
+Accounting Specialist III:
+
 •Data and information Analysis for technical solutions and business problems, in system migration.
 •Monthly and year-end financial statements following DCAA guidelines  to ensure integrity of financial data: 
 •Ensured timely, accurate and accessible financial record keeping using GAAP rules and following the government Contract Audit Agency provisions.

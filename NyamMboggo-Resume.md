@@ -1,6 +1,8 @@
--> Esther Nyambura Ruhiu-Mboggo <-
+<p align="center">
+ Esther Nyambura Ruhiu-Mboggo
 ###### (425)-240-9742  ;   NyamburaMboggo@gmail.com
 ###### Skype- Nyam.Mboggo ;  Twitter- @NyamburaRuhiu
+ </p>
 ___
 
 **SUMMARY OF QUALIFICATIONS**

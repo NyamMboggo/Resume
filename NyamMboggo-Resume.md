@@ -59,6 +59,7 @@ GL management, Reconciliation of bank, assist Controller with Annual Budgets ,FI
 •Advised defense team on Defense Contract Audit Agency (DCAA) standards for grants and regulations, making certain that standards were met and advise on best accounting processes and implementing by need.
 
 _AMERICAN GOLF CORPORATION, Santa Monica, CA 	Apr 2007 – Jul 2012_ 
+
 Course Analyst / Staff Accountant 
 GL management, Reconciliation of bank, assist Controller with Annual Budgets and financial, monitoring capital expenditures & proposals for General Managers.
 •Prepared and reviewed monthly financial statements for 21 golf courses using GAAP rules; analyzed P&L and 
@@ -70,6 +71,7 @@ Maintained leasing knowledge this was for each golf course alongside Legal depar
 •Assisted controller and General  Managers in developing forecasts, defining budget plan. 
 
 _Rand Corporation, Santa Monica, CA May 2005 – March 2007_
+
 Accounting Specialist III
 •Data and information Analysis for technical solutions and business problems, in system migration.
 •Monthly and year-end financial statements following DCAA guidelines  to ensure integrity of financial data: 

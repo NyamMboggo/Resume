@@ -17,7 +17,7 @@ Business Management | Investment Planning | Marketing | Project Management| Cost
 
 _OPHRYS-WEINSTEIN & RILEY LLC JUNE 2016 - APRIL 2018_
 
-ACCOUNTING MANAGER (LAW FIRM/FUNDS’ INVESTMENTS)	
+Accounting Manager (Law Firm/ Funds' Investment)
 
 This includes:  Management of all entities including Law Firm GL, Asset management Cost Basis Analysis Detailed Financial analysis,  of revenue, payroll,  G&A . Borrowing Basis Analysis I.e. Checking strength and weakness of a funds and Funds distributions for investors, coordinate with Treasury management for daily transaction for Wire & ACH approvals, oversee Audits, 
 • Manage daily Accounting activities and month end close process for operating companies. Manage Accounts Payable, Accounts Receivable, Clients Reporting, GL Accountant.

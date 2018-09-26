@@ -43,6 +43,7 @@ Completion of sub documents and making sure that all are in compliance to perfor
  •Prepare FMV reports, Annual preparation of Return schedules and management fees schedules. Preparation of K-1 taxes analysis for partnerships and also public traded partnerships, Preparation of Audits schedules.
 
 _SOCIALTYZE, MANHATTAN BEACH, CA	Apr 2014 – Dec 2014_
+
 Finance Director:
 This includes: Cash flow management, Co-ordinate Annual Budgets and Financial, monitoring capital expenditures & proposals, Human Resource Benefits management.
  •Manage Accounts Payable and Accounts Receivable departments and making sure the end of month process is smooth. 
